@@ -21,11 +21,6 @@ Para utilizar las herramientas de este proyecto, asegúrate de tener instaladas 
    npm install cypress --save-dev
    ```
 
-3. **RIPuppet**: Si no lo tienes, puedes instalarlo mediante npm:
-
-   ```bash
-   npm install ripuppet
-   ```
 
 ## Configuración
 
