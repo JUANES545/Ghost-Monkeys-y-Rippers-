@@ -6,7 +6,7 @@ Este repositorio contiene las pruebas realizadas utilizando monkey testing con C
 ## Herramientas Utilizadas
 
 - **Cypress Monkey**: Herramienta para realizar pruebas a través de clics y entradas aleatorias en la aplicación.
-- **RIPuppet**: Biblioteca de Node.js para realizar scraping de la interfaz gráfica de aplicaciones web.
+- **[RIPuppet](https://github.com/TheSoftwareDesignLab/RIPuppetCoursera)**: Biblioteca de Node.js para realizar scraping de la interfaz gráfica de aplicaciones web.
 
 ## Instalación
 
@@ -30,7 +30,7 @@ Para utilizar las herramientas de este proyecto, asegúrate de tener instaladas 
 
 ### RIPuppet
 
-Asegúrate de que el archivo `config.json` contenga los parámetros necesarios para la ejecución. Modifica los parámetros requeridos según tus necesidades antes de ejecutar la herramienta.
+Sigue las istrucciónes del siguiente [repositorio](https://github.com/TheSoftwareDesignLab/RIPuppetCoursera)
 
 ## Ejecución de Pruebas
 
@@ -44,7 +44,7 @@ Para realizar pruebas de monkey con Cypress, asegúrate de que tu entorno de pru
 npx cypress open
 ```
 
-Sigue las instrucciones en el entorno de Cypress para configurar y ejecutar las pruebas.
+Sigue las instrucciones en el entorno de Cypress para configurar y ejecutar las pruebas y ejecuta el script **monkey_testing.js**
 
 ### RIPuppet
 
@@ -64,17 +64,3 @@ node index.js
 
 En el apartado de **Issues** de este repositorio, se han documentado los incidentes encontrados durante las pruebas con RIPuppet. Cada reporte incluye información sobre los problemas identificados y las acciones tomadas en respuesta a ellos.
 
-## Contribuciones
-
-Si deseas contribuir a este proyecto, siéntete libre de hacer un fork y enviar tus pull requests. También puedes reportar problemas y sugerencias a través de la sección de **Issues**.
-
-## Licencia
-
-Este proyecto está licenciado bajo la [MIT License](LICENSE).
-
----
-
-¡Gracias por tu interés en nuestro proyecto de pruebas en Ghost!
-```
-
-Este archivo `README.md` proporciona información clara y estructurada sobre el proyecto, incluyendo las herramientas utilizadas, instrucciones de instalación y ejecución, así como detalles sobre los reportes de incidentes. Puedes personalizarlo aún más si es necesario.
