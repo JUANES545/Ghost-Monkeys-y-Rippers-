@@ -1,5 +1,8 @@
 # Ghost [Monkeys & Rippers]
 
+| Monkeys                                                                                                       | Rippers                                                                                                       |
+|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| ![WhatsApp Video 2024-11-03 at 22 08 03](https://github.com/user-attachments/assets/a22a40f1-999b-4a89-8064-36ebc1f92bea) | ![WhatsApp Video 2024-11-03 at 21 59 16](https://github.com/user-attachments/assets/0d03c23f-13cc-4732-aaa9-137db4b79fc1) |
 
 
 Este repositorio contiene las pruebas realizadas utilizando monkey testing con Cypress y rippers con RIPuppet en la aplicación GHOST, de acuerdo al material del curso. Aquí se detallan las herramientas utilizadas, los procedimientos para ejecutar las pruebas y los incidentes reportados.
