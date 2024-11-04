@@ -1,6 +1,7 @@
 # Ghost [Monkeys & Rippers]
 
 
+
 Este repositorio contiene las pruebas realizadas utilizando monkey testing con Cypress y rippers con RIPuppet en la aplicación GHOST, de acuerdo al material del curso. Aquí se detallan las herramientas utilizadas, los procedimientos para ejecutar las pruebas y los incidentes reportados.
 
 ## Herramientas Utilizadas
@@ -61,6 +62,8 @@ node index.js
 ```
 
 ## Reportes de Incidentes
+
+https://github.com/user-attachments/assets/641bd9c3-810a-4091-a55d-3b145715b378
 
 En el apartado de **Issues** de este repositorio, se han documentado los incidentes encontrados durante las pruebas con RIPuppet. Cada reporte incluye información sobre los problemas identificados y las acciones tomadas en respuesta a ellos.
 
