@@ -47,19 +47,6 @@ npx cypress open
 
 Sigue las instrucciones en el entorno de Cypress para configurar y ejecutar las pruebas y ejecuta el script **monkey_testing.js**
 
-### RIPuppet
-
-Para ejecutar RIPuppet, usa el siguiente comando:
-
-```bash
-node index.js
-```
-
-Por ejemplo:
-
-```bash
-node index.js
-```
 
 ## Reportes de Incidentes
 
