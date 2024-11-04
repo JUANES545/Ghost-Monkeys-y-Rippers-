@@ -46,7 +46,7 @@ npx cypress open
 Sigue las instrucciones en el entorno de Cypress para configurar y ejecutar las pruebas y ejecuta el script **monkey_testing.js**
 
 
-## Reportes de Incidentes
+## [Reportes de Incidentes](https://github.com/JUANES545/Ghost-Monkeys-y-Rippers-/issues)
 
 https://github.com/user-attachments/assets/641bd9c3-810a-4091-a55d-3b145715b378
 
